@@ -1,4 +1,4 @@
-# imggallery
+# Img Gallery
 ---
 **Proyecto: Images Gallery - Lugares Turísticos de Venezuela
 Este proyecto consiste en la creación de una página web estática que presenta 8 imágenes de algunos de los lugares turísticos más destacados de Venezuela. La página está diseñada para ser responsive, es decir, se adapta a diferentes dispositivos (móviles, tabletas y escritorios). Además, la página está desplegada en GitHub Pages**
