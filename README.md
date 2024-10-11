@@ -24,10 +24,10 @@ Tecnologías utilizadas
 Vista previa
 ---
 Aquí puedes ver la página en acción: Ver el sitio en GitHub Pages
-https://tu-usuario.github.io/grid
+https://tu-usuario.github.io/imggallery
 
 Algunas ideas para mejorar el proyecto en el futuro
 ---
-Añadir una animación cuando se haga hover sobre las imágenes. Implementar un sistema de navegación con JavaScript para interactuar con las imágenes. Usar flexbox en lugar de CSS Grid para ver las diferencias en la implementación. Agregar un modal para visualizar las imágenes a mayor tamaño al hacer clic sobre ellas.
+Añadir una animación cuando se haga hover sobre las imágenes.
 
 **Autor Mariel Blanco**
